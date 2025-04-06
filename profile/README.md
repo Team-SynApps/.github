@@ -12,7 +12,7 @@ SynApps develops creative solutions that make a difference. We focus on building
 - Innovation Research
 
 ## 🌐 Our Website
-Visit our website at [synapps.com]([https://synapps.com](https://synapps-five.vercel.app/)) to learn more about our projects and services!
+Visit our website at [synapps.com](https://synapps-five.vercel.app/) to learn more about our projects and services!
 
 ## 📫 Contact Us
 - Email: synapps99@gmail.com
